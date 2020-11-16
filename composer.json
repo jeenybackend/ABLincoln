@@ -1,5 +1,5 @@
 {
-    "name": "vimeo/ablincoln",
+    "name": "jeenybackend/ablincoln",
     "description": "PHP library for designing online experiments",
     "license": "BSD",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.4",
         "psr/log": "~1.0",
         "monolog/monolog": "~1.0"
     },
